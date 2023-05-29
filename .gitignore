@@ -161,3 +161,4 @@ cython_debug/
 
 data/
 notebook/VGG16_full_model.h5
+notebook/trained_model.h5
